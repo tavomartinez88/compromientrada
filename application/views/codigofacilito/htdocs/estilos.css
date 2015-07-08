@@ -1,0 +1,20 @@
+* {margin:0px; padding:0px; border:0px;}
+
+body {background-color:rgba(100,20,40,0.5); text-align:center;}
+
+#social{background-color:transparent;height:25px;}
+
+#trabajos{background-color:transparent;height:300px}
+
+
+#justificar{}
+#justificar p{padding:5px 10px 5px 10px; text-indent:15px;text-align:justify;text-decoration:none;font-size: 15px}
+
+
+
+.titulo0{font-family:'Lobster';color: white;font-size: 50px;}
+.titulo1{font-family:'Lobster';color: white;}
+.titulo2{font-family:'Lobster';color: black;}
+.titulo3{font-family:'Lobster';color: blue;}
+
+
